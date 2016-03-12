@@ -34,9 +34,20 @@ class MTGODraftFile
     /**
      * Opens the file handler, and parses the file.
      *
-     * @param string $file A valid path for PHP to read the file
+     * @param string $file A valid path for PHP to read the file.
+     * @throws Exception if file is not readable.
+     * @throws InvalidArgumentException if the argument is not a string.
      */
     public function __construct($file) {
+
+        if (!is_string($file)) {
+            throw new InvalidArgumentException("Argument must be a string");
+        }
+
+        if (!is_readable($file)) {
+            throw new Exception("File cannot be read.");
+        }
+
         $this->fh = fopen($file, 'r');
         $this->parse();
     }
