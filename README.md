@@ -9,8 +9,16 @@ Account-> Game History-> "Auto save draft logs".
 To use the file all you need to do is:
 ```
 $path_to_file = 'sample_draft.txt';
-$draft = new MTGODraftFile( $path_to_file );
-$result = $draft->results;
+try {
+	$draft = new MTGODraftFile( $path_to_file );
+	$result = $draft->results;
+} catch(Exception $e) {
+	// Error occured
+	echo $e->message;
+}
+
+print_r($result);
+
 ```
 There will be 3 packs in $result['packs']
 and
