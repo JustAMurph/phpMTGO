@@ -1,0 +1,596 @@
+Event #: 9488616
+Time:    10/03/2016 15:48:46
+Players:
+--> Player1
+    Player2
+    Player3
+    Player4
+    Player5
+    Player6
+    Player7
+    Player8
+
+--: Oblivion Strike
+
+--: Oblivion Strike
+
+------ OGW ------ 
+
+Pack 1 pick 1:
+    Blinding Drone
+    Kozilek's Pathfinder
+    Spawnbinder Mage
+--> Oblivion Strike
+    Kozilek's Shrieker
+    Lead by Example
+    Untamed Hunger
+    Grasp of Darkness
+    Umara Entangler
+    Akoum Flameseeker
+    Grip of the Roil
+    Baloth Null
+    Wall of Resurgence
+    Hissing Quagmire
+    Island
+
+--: Immobilizer Eldrazi
+
+--: Joraga Auxiliary
+
+--: Isolation Zone
+
+--: Isolation Zone
+
+Pack 1 pick 2:
+    Jwar Isle Avenger
+    Warden of Geometries
+--> Isolation Zone
+    Tar Snare
+    Reality Hemorrhage
+    Netcaster Spider
+    Witness the End
+    Kor Scythemaster
+    Negate
+    Sparkmage's Gambit
+    Kazuul's Toll Collector
+    Joraga Auxiliary
+    Immobilizer Eldrazi
+    Plains
+
+--: Kor Sky Climber
+
+--: Ondu War Cleric
+
+--: Ondu War Cleric
+
+--: Ondu War Cleric
+
+--: Ondu War Cleric
+
+Pack 1 pick 3:
+    Kor Sky Climber
+    Boulder Salvo
+    Holdout Settlement
+    Blinding Drone
+    Corpse Churn
+    Canopy Gorger
+    Mighty Leap
+    Consuming Sinkhole
+--> Ondu War Cleric
+    Tranquil Expanse
+    Devour in Flames
+    Ruin in Their Wake
+    Island
+
+--: Oblivion Strike
+
+--: Oblivion Strike
+
+Pack 1 pick 4:
+--> Oblivion Strike
+    Boulder Salvo
+    Holdout Settlement
+    Kozilek's Pathfinder
+    Corpse Churn
+    Natural State
+    Ancient Crab
+    Maw of Kozilek
+    Birthing Hulk
+    Cliffhaven Vampire
+    Tears of Valakut
+    Island
+
+--: Havoc Sower
+
+Pack 1 pick 5:
+    Cinder Hellion
+    Unknown Shores
+    Seer's Lantern
+    Unnatural Endurance
+    Untamed Hunger
+    Slip Through Space
+    Brute Strength
+    Iona's Blessing
+--> Havoc Sower
+    Sea Gate Wreckage
+    Forest
+
+--: Searing Light
+
+--: Sky Scourer
+
+Pack 1 pick 6:
+    Goblin Freerunner
+    Wastes
+--> Sky Scourer
+    Searing Light
+    Comparative Analysis
+    Eldrazi Aggressor
+    Strider Harness
+    Stoneforge Acolyte
+    Hedron Alignment
+    Forest
+
+--: Kor Sky Climber
+
+Pack 1 pick 7:
+--> Kor Sky Climber
+    Zada's Commando
+    Crumbling Vestige
+    Hedron Crawler
+    Vines of the Recluse
+    Unnatural Endurance
+    Brute Strength
+    Bonds of Mortality
+    Swamp
+
+--: Stalking Drone
+
+Pack 1 pick 8:
+--> Stalking Drone
+    Loam Larva
+    Negate
+    Sparkmage's Gambit
+    Grip of the Roil
+    Chitinous Cloak
+    Oath of Jace
+    Forest
+
+--: Lead by Example
+
+--: Kozilek's Pathfinder
+
+Pack 1 pick 9:
+--> Kozilek's Pathfinder
+    Lead by Example
+    Untamed Hunger
+    Umara Entangler
+    Akoum Flameseeker
+    Grip of the Roil
+    Island
+
+--: Tar Snare
+
+Pack 1 pick 10:
+--> Tar Snare
+    Netcaster Spider
+    Negate
+    Sparkmage's Gambit
+    Kazuul's Toll Collector
+    Plains
+
+--: Mighty Leap
+
+Pack 1 pick 11:
+    Canopy Gorger
+--> Mighty Leap
+    Consuming Sinkhole
+    Ruin in Their Wake
+    Island
+
+--: Corpse Churn
+
+Pack 1 pick 12:
+--> Corpse Churn
+    Ancient Crab
+    Maw of Kozilek
+    Island
+
+--: Brute Strength
+
+Pack 1 pick 13:
+    Untamed Hunger
+--> Brute Strength
+    Forest
+
+--: Hedron Alignment
+
+Pack 1 pick 14:
+--> Hedron Alignment
+    Forest
+
+--: Swamp
+
+Pack 1 pick 15:
+--> Swamp
+
+--: Linvala, the Preserver
+
+--: Linvala, the Preserver
+
+------ OGW ------ 
+
+Pack 2 pick 1:
+    Jwar Isle Avenger
+    Hedron Crawler
+    Isolation Zone
+    Tar Snare
+    Slaughter Drone
+    Loam Larva
+    Mighty Leap
+    Abstruse Interference
+    Akoum Flameseeker
+    Dazzling Reflection
+    Essence Depleter
+    Cinder Barrens
+    Reflector Mage
+--> Linvala, the Preserver
+    Mountain
+
+--: Expedition Raptor
+
+--: Expedition Raptor
+
+Pack 2 pick 2:
+    Kozilek's Pathfinder
+    Tajuru Pathwarden
+--> Expedition Raptor
+    Zada's Commando
+    Crumbling Vestige
+    Stalking Drone
+    Witness the End
+    Abstruse Interference
+    Akoum Flameseeker
+    Searing Light
+    Meandering River
+    Flaying Tendrils
+    Tears of Valakut
+    Mountain
+
+--: Kor Scythemaster
+
+Pack 2 pick 3:
+    Reality Hemorrhage
+    Wastes
+    Containment Membrane
+    Bone Saw
+    Netcaster Spider
+    Witness the End
+--> Kor Scythemaster
+    Negate
+    Sparkmage's Gambit
+    Roiling Waters
+    Strider Harness
+    Stoneforge Acolyte
+    Forest
+
+--: Zulaport Chainmage
+
+Pack 2 pick 4:
+    Stalking Drone
+    Goblin Freerunner
+    Wastes
+    Pulse of Murasa
+--> Zulaport Chainmage
+    Elemental Uprising
+    Affa Protector
+    Ancient Crab
+    Expedite
+    Timber Gorge
+    Thought Harvester
+    Mountain
+
+--: Expedition Raptor
+
+Pack 2 pick 5:
+    Tajuru Pathwarden
+--> Expedition Raptor
+    Crumbling Vestige
+    Slaughter Drone
+    Loam Larva
+    Unnatural Endurance
+    Abstruse Interference
+    Akoum Flameseeker
+    Dazzling Reflection
+    Wandering Fumarole
+    Swamp
+
+--: Mighty Leap
+
+Pack 2 pick 6:
+    Warden of Geometries
+    Stalking Drone
+    Pulse of Murasa
+    Vines of the Recluse
+    Umara Entangler
+    Brute Strength
+--> Mighty Leap
+    Press into Service
+    Void Grafter
+    Plains
+
+--: Crumbling Vestige
+
+Pack 2 pick 7:
+--> Crumbling Vestige
+    Canopy Gorger
+    Kozilek's Translator
+    Lead by Example
+    Umara Entangler
+    Consuming Sinkhole
+    Embodiment of Insight
+    Gift of Tusks
+    Island
+
+--: Kozilek's Translator
+
+Pack 2 pick 8:
+--> Kozilek's Translator
+    Elemental Uprising
+    Mountain
+    Eldrazi Aggressor
+    Submerged Boneyard
+    Tears of Valakut
+    Zendikar Resurgent
+    Mountain
+
+--: Cinder Barrens
+
+--: Tar Snare
+
+Pack 2 pick 9:
+--> Tar Snare
+    Loam Larva
+    Mighty Leap
+    Abstruse Interference
+    Dazzling Reflection
+    Cinder Barrens
+    Mountain
+
+--: Searing Light
+
+Pack 2 pick 10:
+    Stalking Drone
+    Abstruse Interference
+    Akoum Flameseeker
+--> Searing Light
+    Tears of Valakut
+    Mountain
+
+--: Stoneforge Acolyte
+
+--: Sparkmage's Gambit
+
+Pack 2 pick 11:
+    Negate
+--> Sparkmage's Gambit
+    Strider Harness
+    Stoneforge Acolyte
+    Forest
+
+--: Timber Gorge
+
+Pack 2 pick 12:
+    Elemental Uprising
+    Ancient Crab
+--> Timber Gorge
+    Mountain
+
+--: Loam Larva
+
+Pack 2 pick 13:
+--> Loam Larva
+    Abstruse Interference
+    Swamp
+
+--: Void Grafter
+
+Pack 2 pick 14:
+--> Void Grafter
+    Plains
+
+--: Island
+
+--: Island
+
+Pack 2 pick 15:
+--> Island
+
+--: Oblivion Sower
+
+--: Oblivion Sower
+
+------ BFZ ------ 
+
+Pack 3 pick 1:
+    Nirkana Assassin
+    Forest
+    Oracle of Dust
+    Looming Spires
+    Grave Birthing
+    Eyeless Watcher
+    Eldrazi Devastator
+    Wave-Wing Elemental
+    Volcanic Upheaval
+    Angelic Gift
+    Malakir Familiar
+    Ruination Guide
+    Firemantle Mage
+--> Oblivion Sower
+    Mountain
+
+--: Ruinous Path
+
+Pack 3 pick 2:
+    Roilmage's Trick
+    Dutiful Return
+    Swell of Growth
+    Dispel
+    Goblin War Paint
+    Tandem Tactics
+    Gideon's Reproach
+    Lifespring Druid
+    Valakut Predator
+    Sheer Drop
+    Drana's Emissary
+    Chasm Guide
+--> Ruinous Path
+    Forest
+
+--: Sludge Crawler
+
+--: Sludge Crawler
+
+Pack 3 pick 3:
+    Kalastria Nightwatch
+    Earthen Arms
+    Murk Strider
+--> Sludge Crawler
+    Boiling Earth
+    Lithomancer's Focus
+    Sheer Drop
+    Kozilek's Channeler
+    Hedron Blade
+    Courier Griffin
+    Scythe Leopard
+    Exert Influence
+    Island
+
+--: Fortified Rampart
+
+Pack 3 pick 4:
+    Reclaiming Vines
+    Salvage Drone
+    Swarm Surge
+    Call the Scions
+    Outnumber
+--> Fortified Rampart
+    Lavastep Raider
+    Touch of the Void
+    Infuse with the Elements
+    Retreat to Kazandu
+    Gruesome Slaughter
+    Swamp
+
+--: Makindi Sliderunner
+
+Pack 3 pick 5:
+    Call the Scions
+    Roilmage's Trick
+    Swarm Surge
+    Tajuru Stalwart
+    Belligerent Whiptail
+    Reckless Cohort
+    Volcanic Upheaval
+--> Makindi Sliderunner
+    Herald of Kozilek
+    Retreat to Valakut
+    Island
+
+--: Culling Drone
+
+Pack 3 pick 6:
+    Incubator Drone
+--> Culling Drone
+    Tightening Coils
+    Looming Spires
+    Fertile Thicket
+    Lavastep Raider
+    Cliffside Lookout
+    Resolute Blademaster
+    Halimar Tidecaller
+    Plains
+
+--: Rising Miasma
+
+--: Kor Castigator
+
+Pack 3 pick 7:
+    Coralhelm Guide
+    Tajuru Stalwart
+    Belligerent Whiptail
+--> Kor Castigator
+    Touch of the Void
+    Ondu Champion
+    Makindi Sliderunner
+    Rising Miasma
+    Mountain
+
+--: Fortified Rampart
+
+Pack 3 pick 8:
+    Brilliant Spectrum
+    Natural Connection
+    Unnatural Aggression
+    Lavastep Raider
+--> Fortified Rampart
+    Retreat to Valakut
+    Processor Assault
+    Mountain
+
+--: Nirkana Assassin
+
+Pack 3 pick 9:
+--> Nirkana Assassin
+    Oracle of Dust
+    Looming Spires
+    Grave Birthing
+    Wave-Wing Elemental
+    Volcanic Upheaval
+    Mountain
+
+--: Valakut Predator
+
+Pack 3 pick 10:
+    Swell of Growth
+    Dispel
+    Goblin War Paint
+--> Valakut Predator
+    Chasm Guide
+    Forest
+
+--: Earthen Arms
+
+Pack 3 pick 11:
+--> Earthen Arms
+    Boiling Earth
+    Hedron Blade
+    Scythe Leopard
+    Island
+
+--: Lavastep Raider
+
+Pack 3 pick 12:
+    Call the Scions
+--> Lavastep Raider
+    Gruesome Slaughter
+    Swamp
+
+--: Roilmage's Trick
+
+Pack 3 pick 13:
+--> Roilmage's Trick
+    Volcanic Upheaval
+    Island
+
+--: Fertile Thicket
+
+Pack 3 pick 14:
+--> Fertile Thicket
+    Plains
+
+--: Mountain
+
+Pack 3 pick 15:
+--> Mountain
+
